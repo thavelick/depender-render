@@ -1,5 +1,8 @@
 # Depender Render
-Depender Render is a simple tool to render a dependency graph for you github issues.
+Depender Render is a simple tool to render a dependency graph for you github issues. 
+
+## Warning
+This was an experiment that didn't really work, it's not recommended to use
 
 ## Installation
 ```bash
